@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-11T01:48:34.627Z</updated>
+  <updated>2016-05-11T01:52:54.177Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,18 +20,30 @@
     <link href="http://yoursite.com/2016/05/11/mINI-sQL-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
     <id>http://yoursite.com/2016/05/11/mINI-sQL-数据库课程设计/</id>
     <published>2016-05-11T01:47:46.000Z</published>
-    <updated>2016-05-11T01:48:34.627Z</updated>
+    <updated>2016-05-11T01:52:54.177Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;p&gt;数据库系统的课程设计，先占个坑~~~&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     
     <summary type="html">
     
+      &lt;p&gt;数据库系统的课程设计，先占个坑~~~&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+    
     </summary>
     
-      <category term="课程相关 Projects" scheme="http://yoursite.com/categories/%E8%AF%BE%E7%A8%8B%E7%9B%B8%E5%85%B3-Projects/"/>
+      <category term="课程相关" scheme="http://yoursite.com/categories/%E8%AF%BE%E7%A8%8B%E7%9B%B8%E5%85%B3/"/>
+    
+      <category term="Projects" scheme="http://yoursite.com/categories/%E8%AF%BE%E7%A8%8B%E7%9B%B8%E5%85%B3/Projects/"/>
     
     
-      <category term="Database SQL" scheme="http://yoursite.com/tags/Database-SQL/"/>
+      <category term="Database" scheme="http://yoursite.com/tags/Database/"/>
+    
+      <category term="SQL" scheme="http://yoursite.com/tags/SQL/"/>
     
   </entry>
   
