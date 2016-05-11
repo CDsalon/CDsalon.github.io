@@ -4,9 +4,9 @@
   <subtitle>Stay foolish Stay Hunger</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://cdsalon.github.io/"/>
   <updated>2016-05-11T01:52:54.177Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://cdsalon.github.io/</id>
   
   <author>
     <name>Illusiveman</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>mINI sQL(数据库课程设计)</title>
-    <link href="http://yoursite.com/2016/05/11/mINI-sQL-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
-    <id>http://yoursite.com/2016/05/11/mINI-sQL-数据库课程设计/</id>
+    <link href="http://cdsalon.github.io/2016/05/11/mINI-sQL-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://cdsalon.github.io/2016/05/11/mINI-sQL-数据库课程设计/</id>
     <published>2016-05-11T01:47:46.000Z</published>
     <updated>2016-05-11T01:52:54.177Z</updated>
     
@@ -36,21 +36,21 @@
     
     </summary>
     
-      <category term="课程相关" scheme="http://yoursite.com/categories/%E8%AF%BE%E7%A8%8B%E7%9B%B8%E5%85%B3/"/>
+      <category term="课程相关" scheme="http://cdsalon.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%9B%B8%E5%85%B3/"/>
     
-      <category term="Projects" scheme="http://yoursite.com/categories/%E8%AF%BE%E7%A8%8B%E7%9B%B8%E5%85%B3/Projects/"/>
+      <category term="Projects" scheme="http://cdsalon.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%9B%B8%E5%85%B3/Projects/"/>
     
     
-      <category term="Database" scheme="http://yoursite.com/tags/Database/"/>
+      <category term="Database" scheme="http://cdsalon.github.io/tags/Database/"/>
     
-      <category term="SQL" scheme="http://yoursite.com/tags/SQL/"/>
+      <category term="SQL" scheme="http://cdsalon.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/05/09/hello-world/"/>
-    <id>http://yoursite.com/2016/05/09/hello-world/</id>
+    <link href="http://cdsalon.github.io/2016/05/09/hello-world/"/>
+    <id>http://cdsalon.github.io/2016/05/09/hello-world/</id>
     <published>2016-05-09T13:49:51.352Z</published>
     <updated>2016-05-10T17:18:09.746Z</updated>
     
@@ -75,10 +75,10 @@ Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel
     
     </summary>
     
-      <category term="tech" scheme="http://yoursite.com/categories/tech/"/>
+      <category term="tech" scheme="http://cdsalon.github.io/categories/tech/"/>
     
     
-      <category term="tech" scheme="http://yoursite.com/tags/tech/"/>
+      <category term="tech" scheme="http://cdsalon.github.io/tags/tech/"/>
     
   </entry>
   
